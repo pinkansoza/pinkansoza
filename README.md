@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 I'm Pinkan Sofia Zahra, a passionate developer and lifelong learner.
 
