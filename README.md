@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**pinkansoza/pinkansoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pinkan Sofia Zahra, a passionate developer and lifelong learner.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying on Universitas Negeri Semarang
+- 🌱 I’m currently learning Informatics Engineering
+- 😄 Pronouns: she/her
+- ⚡ Fun fact I don't like chicken skin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Skills
+- Programming: Python, JavaScript, C++
+- Tools: Git, VsCode
+
+## 📫 Let's Connect!
+- [LinkedIn: Pinkan S](https://www.linkedin.com/in/pinkan-s-bb7b0b321/)
+- [Instagram: @pinkansoza](https://instagram.com/pinkansoza)
