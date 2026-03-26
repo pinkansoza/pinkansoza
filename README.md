@@ -3,7 +3,7 @@
 I'm Pinkan Sofia Zahra, a passionate developer and lifelong learner.
 
 ### 🌟 Skills
-- Programming: Python, JavaScript, C++
+- Programming: Python, JavaScript, PHP, C++
 - Tools: Git, VsCode
 
 ### 📫 Let's Connect!
